@@ -71,7 +71,7 @@ crypto-market-intelligence/
 
 * Libraries: `requests`, `BeautifulSoup`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `streamlit`
 
-* Data Source: CoinMarketCap API
+* Data Source: [CoinMarketCap API](https://coinmarketcap.com/) 
 
 * Tools: Jupyter Notebook, Git/GitHub
 
@@ -105,6 +105,6 @@ Damilola Olatoye
 
 Fintech Product Manager → Data Scientist
 
-Focused on applying AI and data-driven insights to build smarter, more inclusive financial products.
+*Focused on applying AI and data-driven insights to build smarter, more inclusive financial products.*
 
 
