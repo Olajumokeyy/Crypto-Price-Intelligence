@@ -41,26 +41,25 @@ This project showcases how a data scientist:
 ```bash
 crypto-market-intelligence/
 │
-├── data/                       # Raw and cleaned datasets
+├── data/                      
 │   ├── raw_data.csv
 │   └── cleaned_data.csv
 │
-├── notebooks/                  # Interactive exploration & EDA
+├── notebooks/                  
 │   ├── 01_data_collection.ipynb
 │   ├── 02_data_cleaning.ipynb
 │   ├── 03_analysis_and_visualization.ipynb
 │
-├── scripts/                    # Modular reusable code
+├── scripts/                   
 │   ├── fetch_api_data.py
 │   ├── scrape_coin_data.py
 │   ├── clean_data.py
 │   └── analyze_trends.py
 │
-├── dashboard/                  # (Optional) Streamlit app or summary report
+├── dashboard/                  
 │   └── app.py
 │
 ├── requirements.txt
-|__ learning.txt
 └── README.md
 ```
 
@@ -103,7 +102,9 @@ crypto-market-intelligence/
 ### 👤 Author
 
 Damilola Olatoye
+
 Fintech Product Manager → Data Scientist
+
 Focused on applying AI and data-driven insights to build smarter, more inclusive financial products.
 
 
